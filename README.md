@@ -17,6 +17,9 @@ To figure out to what extent the real faulty files can be localized, we exhibit 
 
 ## Reference
 [1] Bugzilla-browse projects. https://bugs.freedesktop.org/describecomponents.cgi.
+
 [2] S. K. Lukins, N. A. Kraft, and L. H. Etzkorn. Bug localization using latent dirichlet allocation. Information and Software Technology, 52(9):972–990, 2010.
+
 [3] A. Marcus, A. Sergeyev, V. Rajlich, and J. I. Maletic. An information retrieval approach to concept location in source code. In Proc.WCRE, pages 214–223. IEEE, 2004.
+
 [4] D. Poshyvanyk, Y.-G. Gueheneuc, A. Marcus, G. Antoniol, and V. Rajlich. Feature location using probabilistic ranking of methods based on execution scenarios and information retrieval. IEEE Transactions on Software Engineering, 33(6):420–432, 2007.
