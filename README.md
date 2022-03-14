@@ -14,3 +14,9 @@ Our dataset is stored in the dataset folder.
 Our recommendations are provided in results/recommendations. In summary, even without the source files of buggy versions, DISBL achieved actuary values that are similar to IR-based approaches, and there is sufficient space for improvements.
 ### Rankings of Real Faulty Files
 To figure out to what extent the real faulty files can be localized, we exhibit the rankings of them in the recommendation list in result/rankings. The real faulty files of quite a few bugs get top 5 rankings in the recommendation list, while some other files keep low rankings. Researchers proposed approaches to extract various contents from software engineering documents. If we use such approaches to identify the contents of issue reports, we can further improve the effectiveness of our approach.
+
+## Reference
+[1] Bugzilla-browse projects. https://bugs.freedesktop.org/describecomponents.cgi.
+[2] S. K. Lukins, N. A. Kraft, and L. H. Etzkorn. Bug localization using latent dirichlet allocation. Information and Software Technology, 52(9):972–990, 2010.
+[3] A. Marcus, A. Sergeyev, V. Rajlich, and J. I. Maletic. An information retrieval approach to concept location in source code. In Proc.WCRE, pages 214–223. IEEE, 2004.
+[4] D. Poshyvanyk, Y.-G. Gueheneuc, A. Marcus, G. Antoniol, and V. Rajlich. Feature location using probabilistic ranking of methods based on execution scenarios and information retrieval. IEEE Transactions on Software Engineering, 33(6):420–432, 2007.
