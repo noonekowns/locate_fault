@@ -1,4 +1,4 @@
-# Locating Fault without Comparison to Source File
+# Bypassing the Robust Problem in IR-Based Fault Localization 
 ## Project summary
 Bugs can lead to wrong process logic, unpredicted behaviors, program crashes, and even economic loss when they occur in real applications. To improve software quality, most software projects introduce issue trackers (e.g., Bugzilla[1]) to manage bug reports. When a bug is found, it can be reported to an issue tracker. After that, programmers can be notified and then fix the reported bug. Given a bug report, a most important task is to locate its faulty files. The process is time-consuming and labor-intensive, especially for those large projects. As the rapid growth of the number and the size of software, it can be even worse. To reduce the labor and the time consumption, IR-based fault localization approaches [2, 3, 4] have been intensively studied in the past decade.
 
